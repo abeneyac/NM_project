@@ -50,7 +50,7 @@ file-upload-manager/
 </ol>
 
 <pre style="font-size:15px; background:#0d1117; color:#e6eef8; padding:10px; border-radius:8px;">
-git clone https://github.com/yourusername/file-upload-manager.git
+git clone https://github.com/abeneyac/NM_project.git
 cd file-upload-manager
 </pre>
 
